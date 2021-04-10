@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orionwebstar
 - 👀 I’m interested in Laravel, PHP, JS, Tailwind... to name a few
 - 🌱 I’m currently learning Livewire and AlpineJS
-- 📫 Reach me on orionwebstar@gmail.com
+- 📫 Reach me on habensusz@gmail.com
 
 <!---
 orionwebstar/orionwebstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
