@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @orionwebstar
+- 👋 Hi, my name is Laszlo Habensusz
 - 👀 I’m interested in Laravel, PHP, JS, Tailwind... to name a few
 - 🌱 I’m currently learning Livewire and AlpineJS
 - 📫 Reach me on habensusz@gmail.com
