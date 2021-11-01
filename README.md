@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Laszlo Habensusz
-- 👀 I’m interested in Laravel, PHP, JS, Tailwind... to name a few
-- 🌱 I’m working with Livewire and Tailwind CSS
+- ✨ I'm coding the backend with PHP, frontend with HTML, CSS, JS.
+- 👀 I’m interested in Laravel, Alpine, Vue, Tailwind... to name a few
+- 🌱 I’m playing football when I'm not front of my MAC.
 - 📫 Reach me on habensusz@gmail.com
 
 <!---
