@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Laszlo Habensusz
 - ✨ I'm coding the backend with PHP, frontend with HTML, CSS, JS.
 - 👀 I’m interested in Laravel, Alpine, Vue, Tailwind... to name a few
-- 🌱 I’m playing football when I'm not front of my MAC.
+- 🌱 I’m enjoying time with my family when I'm away from my Mac.
 - 📫 Reach me on habensusz@gmail.com
 
 <!---
